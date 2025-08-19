@@ -1,67 +1,62 @@
-# Security Library
+# مكتبة الأمن
 
-_A curated, community‑driven collection of publicly shared PDF resources on cybersecurity, digital forensics, threat intelligence, governance, risk & compliance, and adjacent fields._
+_مجموعة مختارة ومدعومة من المجتمع من موارد PDF متاحة للجمهور حول الأمن السيبراني، والتحليل الجنائي الرقمي، ومعلومات التهديدات، والحوكمة، والمخاطر والامتثال، والمجالات المرتبطة بها._
 
-> **Important** – none of the PDFs stored here were authored by this project’s maintainers.  
-> Every document was freely and publicly distributed (e.g. via LinkedIn) by its respective rights‑holder.  
-> If you are a copyright owner and prefer your work not to be mirrored, please reach out – we will remove it immediately.
-
----
-
-## 1.  Purpose
-The goal of **Security Library** is to act as a single, searchable “bookshelf” for learners and practitioners.  
-Instead of digging through social‑media timelines, you can:
-
-* clone the repo,
-* grep/ripgrep titles, or
-* browse the `_pdf/` directory tree grouped by topic.
-
-All files are preserved exactly as originally published; no content is altered.
+> **هام** – لم يتم تأليف أي من ملفات PDF المخزنة هنا من قبل القائمين على هذا المشروع.  
+> تم توزيع كل وثيقة بشكل مجاني وعام (على سبيل المثال عبر LinkedIn) من قبل صاحب الحقوق المعني.  
+> إذا كنت مالك حقوق الطبع والنشر وتفضل عدم نسخ عملك، يرجى الاتصال بنا – سنقوم بإزالته على الفور.
 
 ---
 
-## 2.  Repository Layout
+## 1.  الغرض
+الهدف من **مكتبة الأمن** هو أن تكون بمثابة ”رف كتب“ واحد قابل للبحث للمتعلمين والممارسين.  
+بدلاً من البحث في مخططات زمنية لوسائل التواصل الاجتماعي، يمكنك:
 
-For now - _pdf/ # The documents themselves (read‑only)
+* نسخ المستودع،
+* البحث عن العناوين باستخدام grep/ripgrep، أو
+* تصفح شجرة الدليل `_pdf/` المجمعة حسب الموضوع.
+
+يتم الاحتفاظ بجميع الملفات كما تم نشرها في الأصل؛ ولا يتم تغيير أي محتوى.
 
 ---
 
-## 3.  Usage
+## 3. الاستخدام
 
-   ```bash
+```bash
    git clone https://github.com/<your‑org>/Security_Library.git
    cd Security_Library/_pdf
-   rg "Kerberos delegation"      # quickly find documents mentioning the term
+   rg ”Kerberos delegation“      # البحث السريع عن المستندات التي تذكر المصطلح
 ```
 
 ---
 
-## 4.  Legal & Ethical Notice
-This repository’s code, scripts, and metadata are licensed under the MIT License (see LICENSE).
+## 4. إشعار قانوني وأخلاقي
+يخضع كود هذا المستودع ونصوصه البرمجية وبياناته الوصفية لترخيص MIT (انظر الترخيص).
 
-Each PDF is subject to its own copyright. Inclusion here does not imply that it is in the public domain.
+يخضع كل ملف PDF لحقوق النشر الخاصة به. لا يعني إدراجه هنا أنه ملك عام.
 
-We host the files solely for educational and non‑commercial purposes under the principles of fair use / fair dealing.
+نحن نستضيف الملفات لأغراض تعليمية وغير تجارية فقط بموجب مبادئ الاستخدام العادل/التعامل العادل.
 
-Authors may request removal at any time (see §5).
-
----
-
-## 5.  Takedown / Removal Policy
-Email wojtek@securitybeztabu.pl with:
-
-the PDF filename or SHA‑256,
-
-proof of authorship or exclusive rights,
-
-the action you request (removal or replacement).
-
-We normally respond within 48 hours.
+يمكن للمؤلفين طلب إزالة الملفات في أي وقت (انظر §5).
 
 ---
 
-##  6.  Disclaimer
-The maintainers provide no warranty of correctness, completeness, or fitness for any particular purpose.
-Use the materials at your own risk.
+## 5.  سياسة الإزالة / الحذف
+أرسل بريدًا إلكترونيًا إلى wojtek@securitybeztabu.pl يتضمن:
+
+اسم ملف PDF أو SHA‑256،
+
+إثبات الملكية أو الحقوق الحصرية،
+
+الإجراء الذي تطلبه (الإزالة أو الاستبدال).
+
+نرد عادةً في غضون 48 ساعة.
 
 ---
+
+##  6.  إخلاء المسؤولية
+لا يقدم المسؤولون عن الصيانة أي ضمانات بشأن صحة أو اكتمال أو ملاءمة أي غرض معين.
+استخدم المواد على مسؤوليتك الخاصة.
+
+---
+
